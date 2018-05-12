@@ -1,10 +1,16 @@
 _repo: Autobiography-of-Matthew-Scott-Jumbo-s-Keeper-Also-Jumbo-s-Biography-by-the-same-Author_48704
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48704-h/images/cover.jpg
 creator:
   author:
     agent_name: Scott, Matthew
     gutenberg_agent_id: '44934'
     url: http://www.gutenberg.org/2009/agents/44934
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48704#Autobiography-of-Matthew-Scott-Jumbo-s-Keeper-Also-Jumbo-s-Biography-by-the-same-Author
 gutenberg_issued: '2015-04-14'
 gutenberg_type: Text
 identifiers:
